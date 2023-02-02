@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.49ed424f.css",
-    "main.js": "/static/js/main.4e910860.js",
-    "static/js/787.5efcb81f.chunk.js": "/static/js/787.5efcb81f.chunk.js",
+    "main.css": "/static/css/main.dbdcbbf1.css",
+    "main.js": "/static/js/main.c78fbf2d.js",
+    "static/js/27.9ee89902.chunk.js": "/static/js/27.9ee89902.chunk.js",
     "static/media/Exterior-Steps-scaled.jpg": "/static/media/Exterior-Steps-scaled.4ea81c268ad4bb91a858.jpg",
     "static/media/Office-Spaces-2-scaled.jpg": "/static/media/Office-Spaces-2-scaled.9b2ba412f052c1107547.jpg",
     "static/media/Office-Spaces-scaled.jpg": "/static/media/Office-Spaces-scaled.a80aa4917d8d077f9967.jpg",
@@ -47,13 +47,10 @@
     "static/media/washroom.jpg": "/static/media/washroom.3f42871bfa5712490de4.jpg",
     "static/media/CeilingRepair.jpg": "/static/media/CeilingRepair.f3976d46fbdb34bca23f.jpg",
     "static/media/testimonal_woman.png": "/static/media/testimonal_woman.94d4d421d9f64adc1be6.png",
-    "index.html": "/index.html",
-    "main.49ed424f.css.map": "/static/css/main.49ed424f.css.map",
-    "main.4e910860.js.map": "/static/js/main.4e910860.js.map",
-    "787.5efcb81f.chunk.js.map": "/static/js/787.5efcb81f.chunk.js.map"
+    "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.49ed424f.css",
-    "static/js/main.4e910860.js"
+    "static/css/main.dbdcbbf1.css",
+    "static/js/main.c78fbf2d.js"
   ]
 }
